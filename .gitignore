@@ -49,6 +49,10 @@ wheels/
 # ===================================================================
 #  Test, coverage, and cache files
 # ===================================================================
+test.py
+temp.py
+test.ipynb
+temp.ipynb
 .cache/
 .pytest_cache/
 .mypy_cache/
